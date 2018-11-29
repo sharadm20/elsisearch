@@ -1,0 +1,4 @@
+{{ object.clg_code }}
+{{ object.college_name }}
+{{ object.state }}
+{{ object.address }}
